@@ -9,7 +9,7 @@ import {
   View,
 } from 'react-native';
 
-import MiBoton from '../components/Miboton';
+import MiBoton from '../components/MiBoton';
 
 const mostrarAlerta = (titulo: string, mensaje: string) => {
   if (Platform.OS === 'web') {
