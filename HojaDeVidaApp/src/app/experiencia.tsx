@@ -25,17 +25,17 @@ export default function Experiencia() {
       </View>
 
       <TarjetaExperiencia
-        cargo="Aprendiz de Desarrollo de Software"
+        cargo="tecnico en programacion"
         empresa="Proyecto académico - SENA"
-        periodo="2026 - Actualidad"
-        descripcion="Desarrollo de aplicaciones web y móviles, creación de interfaces, programación y manejo de bases de datos como parte de mi formación en ADSO."
+        periodo="2025"
+        descripcion="Desarrollo de aplicaciones web y móviles, creación de interfaces, programación y manejo de bases de datos como parte de mi formación."
       />
 
       <TarjetaExperiencia
         cargo="Desarrollador de proyecto académico"
-        empresa="Proyecto APRENZY"
+        empresa="Proyecto ECHOSENA"
         periodo="2026"
-        descripcion="Participación en el desarrollo de una plataforma educativa, trabajando en funcionalidades para estudiantes, docentes, coordinadores y administradores."
+        descripcion="Participación en el desarrollo de una plataforma periodica"
       />
     </ScrollView>
   );
